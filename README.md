@@ -23,6 +23,8 @@ quit
 npm install
 ```
 
+Open the `mysqlSettings.js` file and change the `user` and `password` values to reflect yours. Then save the file.
+
 ## Run Customer Interface
 
 ```
